@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet often overlooked, behavior in Ruby regarding instance variables and getter methods.  The `bug.rb` file shows how assigning a value through a getter method doesn't change the instance variable's value. The `bugSolution.rb` offers a solution and explanation.
